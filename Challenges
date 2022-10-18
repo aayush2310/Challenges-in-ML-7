@@ -1,0 +1,12 @@
+1)data collection
+2)Insufficient Data/Labelled Data
+3)Non Representative Data-You are designing a ML model and the data which you have says half story,so you choose a different ML model.
+   a)Sampling Noise-You collect the data of who will win the match only from india
+   b)Sampling Bias-You collect the data of who will win the match from world but they all are indians
+4)Poor Quality of Data-outliers,missing values,abrupt values
+5)Irrelevent features or columns
+6)Overfitting
+7)Underfitting
+8)Software integration
+9)Offline learning and Deployment
+10)Cost Involved
